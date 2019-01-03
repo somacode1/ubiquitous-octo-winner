@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Roses",
+            "request": "launch",
+            "mainClass": "Roses"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Addition",
+            "request": "launch",
+            "mainClass": "Addition"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Facts",
             "request": "launch",
             "mainClass": "Facts"
