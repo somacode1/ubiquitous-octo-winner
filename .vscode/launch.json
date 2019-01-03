@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Geometry",
+            "request": "launch",
+            "mainClass": "Geometry"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PianoKeys",
+            "request": "launch",
+            "mainClass": "PianoKeys"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PianoKeya",
+            "request": "launch",
+            "mainClass": "PianoKeya"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Roses",
             "request": "launch",
             "mainClass": "Roses"
