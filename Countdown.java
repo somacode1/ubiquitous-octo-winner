@@ -1,6 +1,6 @@
 //********************************************************************
 // Countdown.java
-// Author: Philip
+// Author: Philip/pmutua
 //
 // Demonstrates the difference between print and println.
 //********************************************************************
@@ -15,6 +15,6 @@ public class Countdown {
         System.out.print("One....");
         System.out.print("Zero....");
         System.out.println("Lift Off!!!"); // appears on first output line
-        System.out.print("Houston we have a problem");
+        System.out.println("Houston we have a problem");
     }
 }

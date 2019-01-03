@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Facts",
+            "request": "launch",
+            "mainClass": "Facts"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Countdown",
             "request": "launch",
             "mainClass": "Countdown"
